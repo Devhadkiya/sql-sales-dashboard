@@ -3,7 +3,7 @@
 An end-to-end data analytics project using MySQL, Python, and Power BI to analyse 100,000+ rows of retail sales data and deliver actionable business insights through an interactive dashboard.
 
 ## Dashboard Preview
-*(Add a screenshot of your Power BI dashboard here)*
+![Dashboard](dashboard.png)
 
 ## Project Structure
 ```
